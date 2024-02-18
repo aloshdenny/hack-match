@@ -1,3 +1,3 @@
 # hack-match
-DEVSHOUSE HACK@VIT
+DEVSHOUSE HACK@VIT Chennai
 ![WIREFRAME](./Wireframe.png)
