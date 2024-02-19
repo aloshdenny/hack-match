@@ -1,0 +1,20 @@
+/* Login.css */
+.login-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .left-section {
+    flex: 1;
+    padding: 20px;
+    border-right: 1px solid #ccc;
+  }
+  
+  .right-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
